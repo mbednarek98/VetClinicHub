@@ -10,7 +10,7 @@
 </a>
 
 
-A Java-based Veterinary Clinic Management System utilizing Hibernate and H2 database, streamlined for efficiency and adherence to UML standards. <br> Designed for comprehensive clinic operations, including client and staff management, appointment scheduling, and financial transactions.
+A Java-based Veterinary Clinic Management System utilizing Hibernate and H2 database, streamlined for efficiency and adherence to UML standards.  Designed for comprehensive clinic operations, including client and staff management, appointment scheduling, and financial transactions.
 </div>
 
 ## ✨ Features
