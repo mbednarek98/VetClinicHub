@@ -19,7 +19,7 @@ A Java-based Veterinary Clinic Management System utilizing Hibernate and H2 data
 - The data and workflow management of a veterinary clinic are streamlined.
 
 ## 🔑 Prerequisites
-- JDK 8: [OpenJDK]() or [Correcto]() 
+- JDK 8 [Download](https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/downloads-list.html)
 - H2 Database [Download](https://h2database.com/html/download.html)
 - IDE: [InteliJ IDEA](https://www.jetbrains.com/idea/download), [Eclipse](https://www.eclipse.org/downloads/) or any Java-compatible IDE
 
